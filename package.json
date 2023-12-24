@@ -1,0 +1,32 @@
+{
+  "name": "undertaker-task-metadata",
+  "version": "1.0.0",
+  "description": "Proof-of-concept custom registry that attaches metadata to each task",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Agi-Source-Code/undertaker-task-metadata.git"
+  },
+  "dependencies": {
+    "undertaker-registry": "git://github.com/Agi-Source-Code/undertaker-registry.git"
+  },
+  "keywords": [
+    "bind",
+    "metadata",
+    "custom",
+    "registry",
+    "registry",
+    "tasks",
+    "undertaker",
+    "gulp"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Agi-Source-Code/undertaker-task-metadata/issues"
+  },
+  "homepage": "https://github.com/Agi-Source-Code/undertaker-task-metadata#readme"
+}
